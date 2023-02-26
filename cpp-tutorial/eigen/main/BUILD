@@ -4,6 +4,6 @@ cc_binary(
         "main.cc",
     ],
     deps = [
-        "@eigen3//:eigen",
+        "@eigen3//:eigen3",
     ],
 )
